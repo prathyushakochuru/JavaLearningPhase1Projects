@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package CollectionsOp;
+
+/**
+ * @author Neena
+ *
+ */
+public class QueueCRUD {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
