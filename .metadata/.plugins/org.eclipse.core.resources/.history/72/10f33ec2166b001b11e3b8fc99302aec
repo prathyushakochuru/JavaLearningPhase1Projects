@@ -1,0 +1,22 @@
+package CollectionsOp;
+import java.util.*;
+
+
+public class MapCrud {
+
+	public static void main(String[] args) {
+		//Declare a Hashmap
+		
+		Map<Integer, String> hm = new HashMap();
+		
+		hm.put(100, "Neena");
+		hm.put(129, "Harsha");
+		hm.put(200, "Aarush");
+		hm.put(322, "Sai");
+		hm.put(344, "Ramu");
+		
+		System.out.println("Hash Map is : " + hm)
+
+	}
+
+}
